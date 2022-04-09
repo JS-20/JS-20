@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @JS-20
-- 👀 I’m interested in los lenguajes y la tecnologia, descubrir y diseñar nuevos procesos en desarrollo de software
-- 🌱 I’m currently learning  BackEnd con java.
-- 💞️ I’m looking to collaborate on  proyectos de desarrol, automatización, tester .
+- 👋 hola! soy justyne
+- 👀 estoy descubriendo el mundo de los lenguajes y la tecnologia, para diseñar nuevos procesos en desarrollo de software
+- 🌱 actualmente estoy aprendiendo BackEnd con lenguaje java.
+- 💞️ trabajo actualmente en proyectos de desarrollo, automatización y testeos .
 - 📫  comunicate conmigo al discord jus-cuya#3063
+-     o al mail justynesan@gmail.com
 
 <!---
 JS-20/JS-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
