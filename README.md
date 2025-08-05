@@ -1,6 +1,6 @@
 - 👋 hola! soy justyne
 - 👀 estoy descubriendo el mundo de los lenguajes y la tecnologia, para diseñar nuevos procesos en desarrollo de software
-- 🌱 actualmente estoy aprendiendo BackEnd con lenguaje java.
+- 🌱 actualmente estoy aprendiendo BackEnd con lenguaje python.
 - 💞️ trabajo actualmente en proyectos de desarrollo, automatización y testeos .
 - 📫  comunicate conmigo al discord jus-cuya#3063
 -     o al mail justynesan@gmail.com
